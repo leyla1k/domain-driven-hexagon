@@ -3,6 +3,7 @@
 # It was made by Sairyss
 # I cloned this repo
 # My name is Leyla Karimova
+# My email is leylakarimova@yandex.com
 # Domain-Driven Hexagon
 
 **Check out my other repositories**:
