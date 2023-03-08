@@ -1,5 +1,6 @@
 # I cloned this repository
 # My name is Leyla
+# My email is leylakarimova@yandex.com
 # Domain-Driven Hexagon
 
 **Check out my other repositories**:
